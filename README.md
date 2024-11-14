@@ -1,0 +1,3 @@
+- usecase
+- erd
+- api 명세서
